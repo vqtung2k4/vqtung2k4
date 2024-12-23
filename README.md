@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TungVQHE181238](https://github.com/TungVQHE181238)
+- 👨‍💻 All of my projects are available at [https://github.com/TungVQHE181238](https://github.com/vqtung2k4)
 
 - 📝 I regularly write articles on [https://j2c.cc/tungandhisblog](https://j2c.cc/tungandhisblog)
 
